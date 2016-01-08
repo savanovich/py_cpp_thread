@@ -2,5 +2,6 @@ This Python extenion use C++ lib which starts lengthy I/O operation in another t
 
 To check how it works execute:
 
-.. sourcecode:: bash
-    make run
+```
+  make run
+```
