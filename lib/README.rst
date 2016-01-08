@@ -1,4 +1,4 @@
 To test pure C++ app:
 
-..code ::
+.. sourcecode:: bash
     make && ./test
